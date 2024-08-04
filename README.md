@@ -42,4 +42,4 @@ Distributed under the MIT License. See LICENSE for more information.
 Contact
 Your Name - balambigai6050@gmail.com
 
-Project Link: https://github.com/your-username/flipkart-clone
+Project Link: https://github.com/balambigai01/flipkart-clone
